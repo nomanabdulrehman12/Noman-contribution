@@ -1525,5 +1525,4 @@
 - [sangjinnnggg](https://github.com/sangjinnnggg)
 - [Kejimi-data] (https://github.com/Kejimi-data)
 - [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
-- [nomanabdulrehman12](https://github.com/nomanabdulrehman12)
 - -[funmilola Ayinde]\_(https://github.com/funmilolajanet)
